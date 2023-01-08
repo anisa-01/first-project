@@ -615,7 +615,7 @@
   line-height: 24px;
 }
 .bg__img__service {
-  background-image: url(/img/Карьера/footer.png);
+  background-image: url(../img/Карьера/footer.png);
   background-size: 100%;
   background-repeat: no-repeat;
   margin-top: 50px;
@@ -659,7 +659,7 @@
 }
 /*-------------КАРЬЕРА---------*/
 .bg__img_career {
-  background-image: url(/img/Карьера/head.png);
+  background-image: url(../img/Карьера/head.png);
   background-repeat: no-repeat;
   background-size: 100%;
   height: 500px;
@@ -712,7 +712,7 @@
   padding: 15px 0px 20px 0px;
 }
 .accordion:after {
-  content: url(/img/Услуги/bytesize_chevron-right.png);
+  content: url(../img/Услуги/bytesize_chevron-right.png);
   display: inline-block;
   flex: none;
   transition: 0.4s;
