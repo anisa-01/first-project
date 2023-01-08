@@ -896,7 +896,7 @@
   line-height: 24px;
 }
 .bg__img__service {
-  background-image: url(../img/Услуги/цифры/bg image number.png);
+  background-image: url(./img/Услуги/цифры/bg image number.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
