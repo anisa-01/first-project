@@ -1005,6 +1005,7 @@
 }
 .accordion {
   display: flex;
+  content: url(img/Vector.svg);
   flex-direction: row;
   align-items: center;
   font-family: "Gotham-Book";
@@ -1014,7 +1015,7 @@
   padding: 15px 0px 20px 0px;
 }
 .accordion:after {
-  content: url(/img/Vector.svg);
+  content: url(img/Vector.svg);
   display: inline-block;
   flex: none;
   transition: 0.4s;
