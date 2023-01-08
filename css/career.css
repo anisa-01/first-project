@@ -659,7 +659,7 @@
 }
 /*-------------КАРЬЕРА---------*/
 .bg__img_career {
-  background-image: url(./img/Карьера/head.png);
+  background-image: url(../img/Карьера/head.png);
   background-repeat: no-repeat;
   background-size: 100%;
   height: 500px;
